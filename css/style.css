@@ -1,0 +1,60 @@
+@media only screen and (max-width: 600px) {
+    .product {
+      width: 100%;
+      display: block
+    }
+  }
+
+  #welcome-section{
+   height: 100vh;
+  }
+
+  .navbar
+  {
+      background-color: rgb(255, 255, 255);
+      position: fixed;
+      top:0;
+      height: 40px;
+      width: 0;
+      width: 100%;
+  }
+  .nav-link
+  {
+     margin-left: 1000px;
+     
+  }
+  .welcome
+  {
+      margin-top:100px ;
+      text-align: center;
+      color:red;
+      
+  }
+#profile-link
+{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.nav-link
+{
+    
+    text-decoration: none;
+}
+#welcome-section
+{
+    background-color: beige;
+
+}
+.these
+{
+    color: blue;
+    text-align: center;
+    font-size: 50px;    
+}
+.project-tile
+{
+    text-decoration: none;
+    text-align: center;
+    font-size: 35px;
+}
+
